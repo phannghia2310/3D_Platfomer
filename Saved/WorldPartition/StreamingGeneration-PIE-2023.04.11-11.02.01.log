@@ -1,0 +1,10 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-100.000 Y=-400.000 Z=30.000), Max=(X=700.000 Y=400.000 Z=130.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Temp/Untitled_3
+   |  ActorDescs:
+   |      - Guid:25AF32074E478E0772773CA455C168FC Class:StaticMeshActor Name:StaticMeshActor_UAID_089798B7A6ED127801_1731537055 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-100.000 Y=-400.000 Z=30.000), Max=(X=700.000 Y=400.000 Z=130.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:true FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:3F4BA6B04A958312064F108790FD0995 Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:50C303B84105467DE3DC1BACDF915606 Class:DirectionalLight Name:DirectionalLight_UAID_089798B7A6ED127801_1748329056 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000

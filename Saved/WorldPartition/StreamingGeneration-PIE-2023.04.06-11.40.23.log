@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-462.500 Y=-462.500 Z=-50.000), Max=(X=462.500 Y=462.500 Z=50.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Temp/Untitled_3
+   |  ActorDescs:
+   |      - Guid:905F1D984E93B8DE192F26AD0BFFAFAD Class:StaticMeshActor Name:StaticMeshActor_UAID_089798B7A6ED827601_1521897651 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-462.500 Y=-462.500 Z=-50.000), Max=(X=462.500 Y=462.500 Z=50.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:true FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:EABA94EA4B17B62C0456FBB9946B912F Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000

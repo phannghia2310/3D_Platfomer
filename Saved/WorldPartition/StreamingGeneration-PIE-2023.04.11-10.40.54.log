@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-550.000 Y=-537.500 Z=-50.000), Max=(X=550.000 Y=537.500 Z=50.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/StarterContent/Maps/Untitled
+   |  ActorDescs:
+   |      - Guid:224FED394C7AF464D107C2A155B9C67C Class:DirectionalLight Name:DirectionalLight_UAID_089798B7A6ED117801_1529836873 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:DA48CF0D4B3C299874E075B6E1AD59CB Class:StaticMeshActor Name:StaticMeshActor_UAID_089798B7A6ED117801_1470585872 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-550.000 Y=-537.500 Z=-50.000), Max=(X=550.000 Y=537.500 Z=50.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:true FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
